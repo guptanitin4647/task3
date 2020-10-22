@@ -1,0 +1,29 @@
+body{
+    background-image:url(images/train.png);
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;    
+}
+
+div{
+    background: linear-gradient(#7B8788, #DAE0E2);
+    width: 550px;
+    height: 250px;
+    text-align: center;
+    font-size: 50px;
+    margin: 0;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-family: 'Dancing Script', cursive;
+    border-radius: 25px;
+    
+}
+  .con{
+      background-color: greenyellow;
+      width: 550px;
+      height: 45px;
+    }
+  
